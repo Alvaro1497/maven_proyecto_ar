@@ -4,7 +4,9 @@ public class Titan {
 	private String nombre;
 	private int fuerza;
 	private String daño;
-
+	public static  String provincia ="CATA";
+	public static int hora = 12;
+	
 	public void selva() {
 		// global
 		this.nombre = "Perseo";
