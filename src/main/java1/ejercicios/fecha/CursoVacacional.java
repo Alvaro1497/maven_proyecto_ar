@@ -7,6 +7,7 @@ public class CursoVacacional {
 	private String nombre;
 	private LocalDate fechaInicio;
 	private LocalDate fechaFin;
+	private Instructor instructor ;
 
 	
 	public String getNombre() {
